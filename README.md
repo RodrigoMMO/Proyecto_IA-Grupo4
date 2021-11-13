@@ -8,5 +8,17 @@ Integrantes:
 
 Tema. Red Generativa Adversaria para la creación de rostros de anime
 
-Images dataset. https://www.kaggle.com/splcher/animefacedataset
+Images dataset (original).
+> https://www.kaggle.com/splcher/animefacedataset
 
+Trello del grupo:
+
+> https://trello.com/b/LsQc2gFj/proyectoia-grupo4
+
+Artículo en avance del proyecto:
+
+> https://www.overleaf.com/read/xbwnsqnhgqzr
+
+Dataset limpio del grupo:
+
+> https://drive.google.com/drive/folders/112MagTjmalGG5Db8tobLegn4whPiCbqL?usp=sharing
